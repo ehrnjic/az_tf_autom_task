@@ -1,6 +1,6 @@
 # Teraforming AzureCloud Infrastructure
 
-This code is "terraforming" infrastructure on Azure Cloud service to run simple dotnet web application with database (https://github.com/ehrnjic/dotnetcore-sqldb-web-app). Here you can find the terraform code https://github.com/ehrnjic/az_tf_autom_task. I wrote the whole terraform code in one `main.tf` file, but it can be divided into separate files (variables, resources, outputs, etc.) when we have more complex implementations.
+This code is "terraforming" infrastructure on Azure Cloud service to run simple dotnet web application with database (https://github.com/ehrnjic/dotnetcore-sqldb-web-app). I wrote the whole terraform code in one `main.tf` file, but it can be divided into separate files (variables, resources, outputs, etc.) when we have more complex implementations.
 
 Prerequisites:
 
